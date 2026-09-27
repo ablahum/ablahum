@@ -1,13 +1,13 @@
 # Hi, I'm Tama 👋
 
-I'm a **Fullstack Developer specializing in AI-powered web applications**. I enjoy turning complex problems into scalable solutions by combining modern web stacks with LLM-based systems.
+I'm a **Full-stack Developer specializing in AI-powered web applications**. I enjoy turning complex problems into scalable solutions by combining modern web stacks with LLM-based systems.
 
 I'm really open to **remote opportunities** and **freelance collaborations**.
 
 ---
 
 ## 🚀 What I Do
-- Build fullstack web applications (frontend → backend → database)
+- Build full-stack web applications (frontend → backend → database)
 - Integrate LLMs into real products (chat, search, automation)
 - Design APIs and backend systems for AI-driven workflows
 
@@ -20,13 +20,14 @@ I'm really open to **remote opportunities** and **freelance collaborations**.
 
 **Backend**
 - Express.js
-- Laravel
 - FastAPI
+- Laravel
 
 **Database**
 - MySQL, PostgreSQL
-- MongoDB
+- Supabase
 - Pinecone (Vector Database)
+- MongoDB
 
 **AI / LLM**
 - LangChain
